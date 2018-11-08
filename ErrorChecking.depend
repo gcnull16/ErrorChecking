@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541720676 source:c:\users\gn439816\desktop\errorchecking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ErrorCheckings.h"
+
+1541719442 c:\users\gn439816\desktop\errorchecking\errorcheckings.h
+
